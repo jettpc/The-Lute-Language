@@ -1,0 +1,13 @@
+function fact(n)
+
+if (n <= 1)
+
+return n;
+
+end
+
+return n * fact(n - 1);
+
+end
+
+print "Factorial of 9 = " + fact(9);
