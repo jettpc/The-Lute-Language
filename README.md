@@ -1,2 +1,2 @@
 # The-Lute-Language
-example Java code
+Create a basic programming language
